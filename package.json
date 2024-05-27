@@ -1,0 +1,17 @@
+{
+  "name": "student-management-system",
+  "version": "1.0.1",
+  "description": "this is simple student management system app",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "muhammad shahrukh",
+  "license": "MIT"
+}
